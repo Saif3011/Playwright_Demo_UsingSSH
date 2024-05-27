@@ -1,0 +1,25 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="18.425991000000003">
+<testsuite name="ReadFromJsonFile.spec.js" timestamp="2024-05-24T15:00:51.422Z" hostname="chromium" tests="3" failures="0" skipped="0" time="17.356" errors="0">
+<testcase name="Data Driver login test › login with user 1 › Read from Json File " classname="ReadFromJsonFile.spec.js" time="5.845">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\ReadFromJsonFile-Data-Driver-login-test-login-with-user-1-Read-from-Json-File--chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Data Driver login test › login with user 2 › Read from Json File " classname="ReadFromJsonFile.spec.js" time="5.335">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\ReadFromJsonFile-Data-Driver-login-test-login-with-user-2-Read-from-Json-File--chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Data Driver login test › login with user 3 › Read from Json File " classname="ReadFromJsonFile.spec.js" time="6.176">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\ReadFromJsonFile-Data-Driver-login-test-login-with-user-3-Read-from-Json-File--chromium\video.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

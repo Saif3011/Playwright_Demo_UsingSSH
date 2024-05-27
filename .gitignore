@@ -1,0 +1,9 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/allure_RES/
+/allure-report/
+/allure-results/
+/my-allure-results/

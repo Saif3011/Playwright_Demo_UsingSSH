@@ -1,0 +1,16 @@
+{
+    "username": "saif Allah Dakhlaoui",
+    "email": "saif@example.com",
+    "name": "saif",
+    "interest": [
+        "Selenium",
+        "cypress",
+        "playwright"
+    ],
+    "gender": "male",
+    "adress": {
+        "area": "Medina",
+        "city": "Tunis",
+        "pincode": "5252"
+    }
+}
